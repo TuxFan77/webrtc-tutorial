@@ -12,5 +12,8 @@
   "devDependencies": {
     "parcel": "^1.12.4",
     "sass": "^1.26.11"
+  },
+  "dependencies": {
+    "webrtc-adapter": "^7.7.0"
   }
 }
