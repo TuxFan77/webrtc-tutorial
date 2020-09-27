@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-tutorial",
+  "version": "1.0.0",
+  "description": "WebRTC video call app tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html -d dev",
+    "build": "parcel src/index.html -d dist"
+  },
+  "author": "Brian Cross",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.11"
+  }
+}
